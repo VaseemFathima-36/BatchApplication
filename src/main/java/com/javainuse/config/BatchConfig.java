@@ -16,10 +16,8 @@ import com.javainuse.step.Processor;
 import com.javainuse.step.Reader;
 import com.javainuse.step.Writer;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
-import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 
 @Configuration
-@EnableBatchProcessing()
 public class BatchConfig {
 
     @Autowired
