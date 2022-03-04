@@ -45,16 +45,6 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-batch</artifactId>
     </dependency>
-    <dependency>
-      <groupId>com.amazonaws</groupId>
-      <artifactId>aws-lambda-java-core</artifactId>
-      <version>1.2.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.amazonaws</groupId>
-      <artifactId>aws-lambda-java-events</artifactId>
-      <version>2.2.9</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>

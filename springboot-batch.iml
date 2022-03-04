@@ -2,9 +2,9 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
     <varelement var="file://$M2_REPO$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" value="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
-    <varelement var="file://$M2_REPO$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar" kind="src:" value="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar" />
+    <varelement var="file://$M2_REPO$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar" value="src:M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar" />
     <varelement var="file://$M2_REPO$/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0.jar" value="M2_REPO/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0.jar" />
-    <varelement var="file://$M2_REPO$/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0-sources.jar" kind="src:" value="M2_REPO/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0-sources.jar" />
+    <varelement var="file://$M2_REPO$/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0-sources.jar" value="src:M2_REPO/javax/batch/javax.batch-api/1.0/javax.batch-api-1.0-sources.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter/1.4.3.RELEASE/spring-boot-starter-1.4.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter/1.4.3.RELEASE/spring-boot-starter-1.4.3.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.jar" />
@@ -27,9 +27,9 @@
     <varelement var="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-el/8.5.6/tomcat-embed-el-8.5.6.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/8.5.6/tomcat-embed-el-8.5.6.jar" />
     <varelement var="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.6/tomcat-embed-websocket-8.5.6.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.6/tomcat-embed-websocket-8.5.6.jar" />
     <varelement var="file://$M2_REPO$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar" value="M2_REPO/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar" kind="src:" value="M2_REPO/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar" value="src:M2_REPO/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar" />
     <varelement var="file://$M2_REPO$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" value="M2_REPO/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar" kind="src:" value="M2_REPO/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar" value="src:M2_REPO/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar" />
     <varelement var="file://$M2_REPO$/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar" value="M2_REPO/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar" />
     <varelement var="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar" />
     <varelement var="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.jar" />
@@ -44,16 +44,16 @@
     <varelement var="file://$M2_REPO$/net/minidev/accessors-smart/1.1/accessors-smart-1.1.jar" value="M2_REPO/net/minidev/accessors-smart/1.1/accessors-smart-1.1.jar" />
     <varelement var="file://$M2_REPO$/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" value="M2_REPO/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
     <varelement var="file://$M2_REPO$/junit/junit/4.12/junit-4.12.jar" value="M2_REPO/junit/junit/4.12/junit-4.12.jar" />
-    <varelement var="file://$M2_REPO$/junit/junit/4.12/junit-4.12-sources.jar" kind="src:" value="M2_REPO/junit/junit/4.12/junit-4.12-sources.jar" />
+    <varelement var="file://$M2_REPO$/junit/junit/4.12/junit-4.12-sources.jar" value="src:M2_REPO/junit/junit/4.12/junit-4.12-sources.jar" />
     <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
-    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" kind="src:" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" value="src:M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
     <varelement var="file://$M2_REPO$/org/assertj/assertj-core/2.5.0/assertj-core-2.5.0.jar" value="M2_REPO/org/assertj/assertj-core/2.5.0/assertj-core-2.5.0.jar" />
     <varelement var="file://$M2_REPO$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar" value="M2_REPO/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar" />
-    <varelement var="file://$M2_REPO$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar" kind="src:" value="M2_REPO/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar" value="src:M2_REPO/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar" />
     <varelement var="file://$M2_REPO$/org/objenesis/objenesis/2.1/objenesis-2.1.jar" value="M2_REPO/org/objenesis/objenesis/2.1/objenesis-2.1.jar" />
-    <varelement var="file://$M2_REPO$/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar" kind="src:" value="M2_REPO/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar" value="src:M2_REPO/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar" />
     <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
-    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar" kind="src:" value="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar" value="src:M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar" />
     <varelement var="file://$M2_REPO$/org/skyscreamer/jsonassert/1.3.0/jsonassert-1.3.0.jar" value="M2_REPO/org/skyscreamer/jsonassert/1.3.0/jsonassert-1.3.0.jar" />
     <varelement var="file://$M2_REPO$/org/json/json/20140107/json-20140107.jar" value="M2_REPO/org/json/json/20140107/json-20140107.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/spring-test/4.3.5.RELEASE/spring-test-4.3.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-test/4.3.5.RELEASE/spring-test-4.3.5.RELEASE.jar" />
@@ -65,14 +65,14 @@
     <varelement var="file://$M2_REPO$/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/batch/spring-batch-core/3.0.7.RELEASE/spring-batch-core-3.0.7.RELEASE.jar" value="M2_REPO/org/springframework/batch/spring-batch-core/3.0.7.RELEASE/spring-batch-core-3.0.7.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0.jar" value="M2_REPO/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0.jar" />
-    <varelement var="file://$M2_REPO$/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0-sources.jar" kind="src:" value="M2_REPO/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0-sources.jar" />
+    <varelement var="file://$M2_REPO$/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0-sources.jar" value="src:M2_REPO/com/ibm/jbatch/com.ibm.jbatch-tck-spi/1.0/com.ibm.jbatch-tck-spi-1.0-sources.jar" />
     <varelement var="file://$M2_REPO$/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar" value="M2_REPO/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar" />
-    <varelement var="file://$M2_REPO$/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7-sources.jar" kind="src:" value="M2_REPO/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7-sources.jar" />
+    <varelement var="file://$M2_REPO$/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7-sources.jar" value="src:M2_REPO/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7-sources.jar" />
     <varelement var="file://$M2_REPO$/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar" value="M2_REPO/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar" />
     <varelement var="file://$M2_REPO$/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" value="M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
-    <varelement var="file://$M2_REPO$/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar" kind="src:" value="M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar" />
+    <varelement var="file://$M2_REPO$/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar" value="src:M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar" />
     <varelement var="file://$M2_REPO$/org/codehaus/jettison/jettison/1.2/jettison-1.2.jar" value="M2_REPO/org/codehaus/jettison/jettison/1.2/jettison-1.2.jar" />
-    <varelement var="file://$M2_REPO$/org/codehaus/jettison/jettison/1.2/jettison-1.2-sources.jar" kind="src:" value="M2_REPO/org/codehaus/jettison/jettison/1.2/jettison-1.2-sources.jar" />
+    <varelement var="file://$M2_REPO$/org/codehaus/jettison/jettison/1.2/jettison-1.2-sources.jar" value="src:M2_REPO/org/codehaus/jettison/jettison/1.2/jettison-1.2-sources.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/batch/spring-batch-infrastructure/3.0.7.RELEASE/spring-batch-infrastructure-3.0.7.RELEASE.jar" value="M2_REPO/org/springframework/batch/spring-batch-infrastructure/3.0.7.RELEASE/spring-batch-infrastructure-3.0.7.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.jar" value="M2_REPO/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.jar" />
     <varelement var="file://$M2_REPO$/postgresql/postgresql/9.1-901-1.jdbc4/postgresql-9.1-901-1.jdbc4.jar" value="M2_REPO/postgresql/postgresql/9.1-901-1.jdbc4/postgresql-9.1-901-1.jdbc4.jar" />
