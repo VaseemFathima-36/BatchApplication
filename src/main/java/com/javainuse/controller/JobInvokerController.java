@@ -1,6 +1,7 @@
+/*******Add schedular in cloudwatch after deploying into aws and remove jobLauncher staements because it is added in lambda function***********/
 package com.javainuse.controller;
 
-//import com.javainuse.LambdaFunction;
+// import com.javainuse.LambdaFunction;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobParameters;
 import org.springframework.batch.core.JobParametersBuilder;
@@ -20,13 +21,9 @@ public class JobInvokerController {
     Job processJob;
 
     @RequestMapping("/invokejob")
-    @Scheduled(cron = "*/5 * * * * *")
     public String handle() throws Exception {
-
-            JobParameters jobParameters = new JobParametersBuilder().addLong("time", System.currentTimeMillis())
-                    .toJobParameters();
-            jobLauncher.run(processJob, jobParameters);
-
+        JobParameters jobParameters = new JobParametersBuilder().addLong("time", System.currentTimeMillis()).toJobParameters();
+        jobLauncher.run(processJob, jobParameters);
         return "Batch job has been invoked";
     }
 }
